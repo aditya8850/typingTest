@@ -3,7 +3,7 @@ const sentences =
   Sphinx of black quartz, judge my vow.
   Pack my box with five dozen liquor jugs.
   How vexingly quick daft zebras jump.`;
-let seconds = 3;
+let seconds = 30;
 let timer;
 let result = document.querySelector('#result');
 
