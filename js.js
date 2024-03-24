@@ -82,4 +82,4 @@ function displayResult() {
     result.style.display = "block";
    
 };
-console.log(document);
+
